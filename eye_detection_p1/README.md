@@ -4,7 +4,7 @@ pip install numpy
 
 //pip install dlib (this won't work directly)
 go to this: https://github.com/z-mahmud22/Dlib_Windows_Python3.x
-download zip and use pip install dlib version according to ur python, do it on cmd..
+download zip and use pip install dlib version according to ur test' python --version, do it on cmd..
 
 
 also make sure to import shape_predictor_68_face_landmarks.dat
