@@ -9,6 +9,8 @@ download zip and use pip install dlib version according to ur python, do it on c
 
 also make sure to import shape_predictor_68_face_landmarks.dat
 
+find it here: https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
+
 it's a trained model used for facial landmark detection
 
 OpenCV and dlib utilization with py version 12 is possible only with that dat file...
